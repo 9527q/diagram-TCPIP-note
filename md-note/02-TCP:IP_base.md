@@ -6,7 +6,7 @@ Transmission Control Protocol、Internet Protocol
 
 ## TCP/IP 出现的背景及其历史
 
-20 世纪 60 年代，以美国国防部（The Department of Defense，DoD）为中心的组织开始着力于研究心得通信技术。希望在通信传输中，即使遭到了敌方的攻击破坏，也可以经过迂回线路实现最终通信，分组交换技术应运而生
+20 世纪 60 年代，以美国国防部（The Department of Defense，DoD）为中心的组织开始着力于研究新的通信技术。希望在通信传输中，即使遭到了敌方的攻击破坏，也可以经过迂回线路实现最终通信，分组交换技术应运而生
 
 ARPANET（Advanced Research Projects Agency Network，阿帕网）是他们实验的网络，并取得超前的成功，证明了分组交换技术的通信方法是可行的，它是互联网的鼻祖
 
