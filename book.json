@@ -11,10 +11,10 @@
         "tbfed-pagefooter",
         "popup",
         "github",
-        "github-buttons",
         "anchors",
         "donate",
-        "anchor-navigation-ex"
+        "anchor-navigation-ex",
+        "theme-comscore"
     ],
     "pluginsConfig": {
         "hide-element": {
@@ -30,22 +30,6 @@
         },
         "github": {
             "url": "https://github.com/9527q/diagram-TCPIP-note"
-        },
-        "github-buttons": {
-            "buttens": [
-                {
-                    "user": "9527q",
-                    "repo": "diagram-TCPIP-note",
-                    "type": "star",
-                    "size": "large"
-                },
-                {
-                    "user": "9527q",
-                    "type": "follow",
-                    "width": "230",
-                    "count": false
-                }
-            ]
         },
         "donate": {
             "wechat": "http://ww1.sinaimg.cn/large/0062WsWaly1gfomav7w3qj30iw0ir0uq.jpg",
