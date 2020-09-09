@@ -21,7 +21,7 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo": {
-            "url": "https://media.githubusercontent.com/media/9527q/diagram-TCPIP-note/master/images/book-cover.jpg",
+            "url": "./images/book-cover.jpg",
             "style": "background: none; max-height: 120px; min-height: 120px"
         },
         "tbfed-pagefooter": {
