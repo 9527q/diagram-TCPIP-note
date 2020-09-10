@@ -4,7 +4,7 @@
 
 ## 在线笔记
 
-[Github Pages](https://9527q.github.io/diagram-TCPIP-note/)
+[Github Pages](https://9527q.github.io/diagram-tcpip-note/)
 
 [Gitee Pages](https://q9527q.gitee.io/diagram-tcpip-note) 国内访问更快
 
