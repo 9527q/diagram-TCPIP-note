@@ -21,7 +21,7 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo": {
-            "url": "/diagram-TCPIP-note/images/book-cover.jpg",
+            "url": "/diagram-tcpip-note/images/book-cover.jpg",
             "style": "background: none; max-height: 120px; min-height: 120px"
         },
         "tbfed-pagefooter": {
@@ -29,7 +29,7 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "github": {
-            "url": "https://github.com/9527q/diagram-TCPIP-note"
+            "url": "https://github.com/9527q/diagram-tcpip-note"
         },
         "donate": {
             "wechat": "http://ww1.sinaimg.cn/large/0062WsWaly1gfomav7w3qj30iw0ir0uq.jpg",
@@ -51,7 +51,7 @@
     },
     "links" : {
         "sidebar" : {
-            "GitHub 链接" : "https://github.com/9527q/diagram-TCPIP-note"
+            "GitHub 链接" : "https://github.com/9527q/diagram-tcpip-note"
         }
     }
 }
