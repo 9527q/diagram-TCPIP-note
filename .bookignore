@@ -2,3 +2,4 @@ push.sh
 .bookignore
 .gitattributes
 package-lock.json
+.github/
