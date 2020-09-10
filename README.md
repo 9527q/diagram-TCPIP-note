@@ -2,7 +2,11 @@
 
 > 本书旨在让广大读者理解 TCP/IP 的基本知识，掌握 TCP/IP 的基本技能
 
-[在线笔记](https://9527q.github.io/diagram-TCPIP-note/)
+## 在线笔记
+
+[Github Pages](https://9527q.github.io/diagram-TCPIP-note/)
+
+[Gitee Pages](https://q9527q.gitee.io/diagram-tcpip-note) 国内访问更快
 
 ## 目录
 
