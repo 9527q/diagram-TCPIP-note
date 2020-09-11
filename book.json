@@ -21,8 +21,8 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo": {
-            "url": "/diagram-tcpip-note/images/book-cover.jpg",
-            "style": "background: none; max-height: 120px; min-height: 120px"
+            "url": "/images/book-cover.jpg",
+            "style": "background: none; max-height: 190px; min-height: 190px"
         },
         "tbfed-pagefooter": {
             "modify_label": "更新时间：",
